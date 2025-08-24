@@ -1,0 +1,23 @@
+# Node modules and build output
+node_modules/
+dist/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+
+# Local development files
+.cache/
+.DS_Store
+
+# Editor settings
+.idea/
+.vscode/
+
+# System files
+Thumbs.db
+Desktop.ini

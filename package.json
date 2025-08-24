@@ -1,0 +1,19 @@
+{
+  "name": "invoice-app",
+  "version": "1.0.0",
+  "description": "A simple invoice management application built with Vue 3, Vuex and Firebase.",
+  "author": "",
+  "license": "MIT",
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "vue": "^3.3.4",
+    "vuex": "^4.1.0",
+    "firebase": "^9.23.0"
+  },
+  "devDependencies": {
+    "@vue/cli-service": "^5.0.0"
+  }
+}
