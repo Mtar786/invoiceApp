@@ -1,6 +1,5 @@
 # Invoice Application
 
-
 This project is a lightweight invoice management application built with **Vue 3**, **Vuex** and **Firebase**.  It allows you to create, read, update and delete (CRUD) invoices and synchronises your data with [Firebase Firestore](https://firebase.google.com/products/firestore), Google's hosted NoSQL database.  The project is designed to be easy to understand and extend.
 
 ## Features
